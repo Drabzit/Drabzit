@@ -12,7 +12,7 @@ I’m looking to collaborate on ...  Just Learning and Finding my Feet
 
 Find my Adventures.
 
-| <a href="https://linkfree.eddiehub.io/Drabzit" rel="nofollow"> DrabzIT LinkFree</a> | <a href="www.linkedin.com/in/christopher-bardsley-1291b0191" rel="nofollow"> Linkedin</a> | 
+| <a href="https://linkfree.eddiehub.io/Drabzit" rel="nofollow"> DrabzIT LinkFree</a> | <a href="www.linkedin.com/in/christopher-bardsley" rel="nofollow"> Linkedin</a> | 
 
 
 
