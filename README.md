@@ -1,15 +1,15 @@
-***** Page Is Under Construction - Like my Life *****
 
 
-Hi, I’m @Drabzit aka Chris the IT Ninja  
-
-I’m interested in ... Gameing Xbox - *Input GT Here * , Fishing 
-
-I’m currently learning ... how to Github and Powershell and some Codeing HTML?
-
-I’m looking to collaborate on ...  Just Learning and Finding my Feet
+<a href="https://imgur.com/6tL9foX"><img src="https://i.imgur.com/6tL9foX.png" title="source: imgur.com" /></a>
 
 
+
+<div class="textstyle"><b>I’m @Drabzit aka Chris the IT Ninja ,Googles Google Master, Master of nothing Father of 4 Boys</b></div>
+<br>
+<p style="font-family:Courier; color:Blue; font-size: 20px;">My Life Enjoyments are ... Gameing Xbox, Fishing, Camping
+<br>
+I’m currently learning ... how to Github and Powershell and some Codeing HTML?</p>
+<br>
 Find my Adventures.
 
 | <a href="https://linkfree.eddiehub.io/Drabzit" rel="nofollow"> DrabzIT LinkFree</a> | 
